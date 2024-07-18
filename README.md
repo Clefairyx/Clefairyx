@@ -7,5 +7,5 @@
 
 - 💬 Ask me about ... anything you want to know regarding the JungleBoys project or myself
 
-- 📫 How to reach me ... email
+- 📫 How to reach me ... email, discord
 
