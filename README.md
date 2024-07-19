@@ -1,7 +1,7 @@
 # My focus
 
 
-- 👾 I’m currently working on ... a 3-dimensional multiplayer fighting game in Unreal Engine called JungleBoys
+- 👾 I’m currently working on ... a 3-dimensional multiplayer fighting game in Unreal Engine, "JungleBoys"
 
 - 🔍 I’m looking for help with ... optimizing my Unreal Engine project for release on gaming platforms
 
